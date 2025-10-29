@@ -1,6 +1,6 @@
-﻿using LibraryApi.Models;
+﻿using Library.Models;
 
-namespace LibraryApi.Data
+namespace Library.Data
 {
     public static class LibraryStorage
     {
