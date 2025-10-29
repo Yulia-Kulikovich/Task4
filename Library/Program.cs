@@ -7,6 +7,7 @@ builder.Services.AddSwaggerGen();
 
 var app = builder.Build();
 
+
 // Подключаем Swagger только в режиме разработки
 if (app.Environment.IsDevelopment())
 {
